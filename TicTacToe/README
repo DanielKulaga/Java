@@ -5,7 +5,8 @@ Abu uruchomic program nalezy w arguemncie uruchomienia programu podac "localhost
 Pozniej uruchomic server.java pozniej client.java ( dwa razy) aby bylo dwoch graczy
 i cieszyc sie grą :)
 
-This file contains very popular game call TicTacToe in both server and client java files.Whole graphical user interface 
+This file contains very popular game called TicTacToe in both server and client java files.Whole graphical user interface 
 was made using Swing library.
 Run instructions:
-If you want to run TicTacToe you have to write 
+If you want to run TicTacToe you have to write "localhost" as a run argument of server.java.Then just run twice client.java to get 
+two players and you can enjoy the game :)
